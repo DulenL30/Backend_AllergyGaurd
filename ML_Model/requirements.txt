@@ -2,3 +2,5 @@ flask
 joblib
 scikit-learn
 gunicorn
+lightgbm
+flask-cors
